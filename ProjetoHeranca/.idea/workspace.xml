@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7939b7a2-0bcb-40e2-824c-2bd9224e9e32" name="Default Changelist" comment="" />
+    <list default="true" id="051acee0-84a3-41f4-8734-ae68ff1abf51" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +18,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1Q3BPlTS6tMvwIF7fqW1Ll9lSPc" />
+  <component name="ProjectId" id="1RKHAgyddiFCbRCknd9LE9Le5mE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -38,8 +34,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.GerenciarCaixa" />
-      <module name="ProjetoGerenciarConta" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="ProjetoHeranca" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -47,22 +43,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7939b7a2-0bcb-40e2-824c-2bd9224e9e32" name="Default Changelist" comment="" />
-      <created>1566989377118</created>
+      <changelist id="051acee0-84a3-41f4-8734-ae68ff1abf51" name="Default Changelist" comment="" />
+      <created>1569408725203</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566989377118</updated>
+      <updated>1569408725203</updated>
     </task>
     <servers />
   </component>
@@ -71,9 +62,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
